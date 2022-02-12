@@ -1,0 +1,47 @@
+a.jsbd {
+    text-decoration: none;
+    background-color: orange;
+    display: inline-block;
+    text-align: center;
+    padding: 30px 40px; 
+}
+a.btn-success{
+    background-color: palegreen;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 15px;
+    transition: 0.3s all;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+a.btn-success:hover{
+    background-color: rgb(41, 97, 41);
+}
+.danger{
+    padding: 10px 15px;
+    text-decoration: none;
+  border: 1px solid red;
+  color: red;
+  transition: 0.3s all;
+}
+.danger:hover {
+    cursor: wait;
+    background-color: red;
+    color: #fff;
+}
+/* 
+a.link
+a.active
+a.hover
+a.visited
+*/
+.button{
+    padding: 10px 45px;
+    background-image: linear-gradient( #7f00ff, #e100ff);
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 100px;
+    color: wheat;
+    border-radius: 35px;
+}
